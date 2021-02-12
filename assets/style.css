@@ -88,6 +88,20 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+.butn{
+    text-align: center;
+    border-radius: 5px;
+}
+.butn:hover{
+    background-color:  #c3600e;
+    color: white;
+    border: 1px solid white;
+}
+.butn:active {
+    -webkit-box-shadow: inset 0px 0px 5px black;
+    -moz-box-shadow: inset 0px 0px 5px black;
+    box-shadow: inset 0px 0px 5px black;
+}
 
 abbr[title],
 abbr[data-original-title] {
