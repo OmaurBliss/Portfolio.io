@@ -79,15 +79,17 @@ hr {
   overflow: visible ;
 }
 
-.hover02 figure img {
-	width: 250px;
-	height: auto;
-	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
+
+.hover02:hover {
+  text-align: center;
+	width: 355px;
+  overflow: hidden;
+  height: auto;
+  border: 2px solid white;
+  box-shadow: 0 40px 60px 0 rgba(15, 15, 15, 0.4);
 }
-.hover02 figure:hover img {
-	width: 300px;
-}
+
+
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
@@ -10134,5 +10136,25 @@ section.resume-section .resume-section-content {
     padding-right: 3rem;
     padding-top: 5rem;
     padding-bottom: 5rem;
+  }
+}
+/* For desktop: */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
   }
 }
