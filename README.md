@@ -55,7 +55,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
   
 ## Questions
-Please feel free to reach out to any one of us with questions:
+Please feel free to reach out with questions:
 
 - Omaur Bliss: omaurbliss@gmail.com
 
