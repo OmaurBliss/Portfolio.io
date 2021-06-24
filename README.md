@@ -1,4 +1,8 @@
-# Web Portfolio:
+## Web Portfolio
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Description
 
 - This portfolio is mobile responsive and features a clean ascetic
 
@@ -10,9 +14,17 @@
 
 - Has a link to a downloadable PDF of my resume
 
+## Table of Contents
+
+* [Description](#description)
+* [Usage](#usage)
+* [Tech used](#techused)
+* [License](#license)
+* [Questions](#questions)
+
   
 
-  # Usability:
+  ## Usage
 
   Site is now live: https://omaurbliss.github.io/Portfolio.io/
 
@@ -25,7 +37,7 @@
 
   
 
-  # Technology used:
+  ## Tech used
 
   - This site uses a Bootstrap template, HTML5, CSS, Javascript, 
 
@@ -34,17 +46,19 @@
 
   
 
-  # License:
+  ## License:
 
-  (MIT)
+ Distributed under the MIT license.  Full license information:
+Lcensed under the MIT License; you may not use this file except in compliance with the License. You may obtain a copy of the License at:
+https://opensource.org/licenses/MIT
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the License for the specific language governing permissions and limitations under the License.
 
   
+## Questions
+Please feel free to reach out with questions:
 
-  # Contact Information
+- Omaur Bliss: omaurbliss@gmail.com
 
-  Omaur Bliss 
-
-  omaurbliss@gmail.com
 
   
 
